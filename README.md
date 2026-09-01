@@ -5,5 +5,4 @@ Quality Of Life (QOL) fixes
 
 (Not my mods, reupload of other mods will include credits.)
 
-Too Much Info - zCorrupted: [https://github.com/holdorgbyparas0/gtag-qol-fix/Too%20Much%20Info](https://github.com/holdorgbyparas0/gtag-qol-fix/tree/main/Too%20Much%20Info)
-MonkeModManager - NgbatzYT: https://github.com/holdorgbyparas0/gtag-qol-fix/tree/main/MonkeModManager
+Too Much Info - zCorrupted: [https://github.com/holdorgbyparas0/gtag-qol-fix/Too%20Much%20Info](https://github.com/holdorgbyparas0/gtag-qol-fix/tree/main/Too%20Much%20Info)                                                     <br>MonkeModManager - NgbatzYT: https://github.com/holdorgbyparas0/gtag-qol-fix/tree/main/MonkeModManager
